@@ -1,0 +1,4 @@
+.idea
+*/.idea
+backend/target
+front/analyze/node_modules
